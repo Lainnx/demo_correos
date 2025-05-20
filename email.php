@@ -25,7 +25,7 @@ try {
 
     //Recipients
     $mail->setFrom('email con el que generamos contraseña aplicacion', 'Mailer');   // REMITENTE
-    $mail->addAddress('email con el que generamos contraseña aplicacion', 'asdf');     // RECEPTOR
+    $mail->addAddress('email con al que queremos enviar', 'asdf');     // RECEPTOR
     // $mail->addAddress('ellen@example.com');               //Name is optional
     // $mail->addReplyTo('info@example.com', 'Information');
     // $mail->addCC('cc@example.com');
