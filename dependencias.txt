@@ -1,0 +1,2 @@
+libreria - PHPmailer https://github.com/PHPMailer/PHPMailer
+gestor dependencias php - composer
